@@ -1,6 +1,6 @@
 flows:
-  03dec368-2450-40c0-9dd2-3b41ec3dc243: {ver: 1, file: test_bucket_flow.snapshot,
-    comments: '', author: anonymous, created: 1669104563273, flowName: test_bucket_flow,
+  03dec368-2450-40c0-9dd2-3b41ec3dc243: {ver: 2, file: test_bucket_flow.snapshot,
+    comments: test demo, author: anonymous, created: 1669179578295, flowName: test_bucket_flow,
     flowDesc: ''}
 layoutVer: 1
 bucketId: 0c865bd9-8d2b-4477-8fc1-7029d1413452
