@@ -2,7 +2,7 @@ flows:
   03dec368-2450-40c0-9dd2-3b41ec3dc243: {ver: 3, file: test_bucket_flow.snapshot,
     comments: add put file, author: anonymous, created: 1669179686721, flowName: test_bucket_flow,
     flowDesc: ''}
-  65f11ce4-46de-4c6f-be95-57c8c6efb8bf: {ver: 1, file: test_demo.snapshot, comments: '',
-    author: anonymous, created: 1669182792143, flowName: test_demo, flowDesc: ''}
+  65f11ce4-46de-4c6f-be95-57c8c6efb8bf: {ver: 2, file: test_demo.snapshot, comments: demo
+      test, author: anonymous, created: 1669182823906, flowName: test_demo, flowDesc: ''}
 layoutVer: 1
 bucketId: 0c865bd9-8d2b-4477-8fc1-7029d1413452
