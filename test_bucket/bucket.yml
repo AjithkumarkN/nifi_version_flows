@@ -4,8 +4,8 @@ flows:
     flowDesc: ''}
   7082d6e4-a1c7-4a23-9083-6b5dcfd1852c: {ver: 1, file: test.snapshot, comments: '',
     author: anonymous, created: 1669262955032, flowName: test, flowDesc: ''}
-  039c9f58-15e9-4af8-bfe9-b49f09c0f3a5: {ver: 1, file: test_demo.snapshot, comments: '',
-    author: anonymous, created: 1669262966866, flowName: test demo, flowDesc: ''}
+  039c9f58-15e9-4af8-bfe9-b49f09c0f3a5: {ver: 2, file: test_demo.snapshot, comments: flow
+      the files, author: anonymous, created: 1669272924922, flowName: test demo, flowDesc: ''}
   65f11ce4-46de-4c6f-be95-57c8c6efb8bf: {ver: 2, file: test_demo.snapshot, comments: demo
       test, author: anonymous, created: 1669182823906, flowName: test_demo, flowDesc: ''}
 layoutVer: 1

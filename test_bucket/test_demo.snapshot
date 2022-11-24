@@ -87,6 +87,7 @@
             "Keep Source File" : "false",
             "Minimum File Age" : "0 sec",
             "Polling Interval" : "0 sec",
+            "Input Directory" : "/media/funbook/Funbook/NiFi_File/InputFile/",
             "Batch Size" : "10",
             "Minimum File Size" : "0 B",
             "Ignore Hidden Files" : "true",
@@ -177,7 +178,7 @@
           "type" : "org.apache.nifi.processors.standard.GetFile",
           "yieldDuration" : "1 sec"
         }, {
-          "autoTerminatedRelationships" : [ ],
+          "autoTerminatedRelationships" : [ "success", "failure" ],
           "backoffMechanism" : "PENALIZE_FLOWFILE",
           "bulletinLevel" : "WARN",
           "bundle" : {
@@ -201,6 +202,7 @@
           },
           "properties" : {
             "Create Missing Directories" : "true",
+            "Directory" : "/media/funbook/Funbook/NiFi_File/OutputFile/",
             "Conflict Resolution Strategy" : "fail"
           },
           "propertyDescriptors" : {
@@ -253,7 +255,7 @@
               "sensitive" : false
             }
           },
-          "retriedRelationships" : [ ],
+          "retriedRelationships" : [ "failure", "success" ],
           "retryCount" : 10,
           "runDurationMillis" : 0,
           "scheduledState" : "ENABLED",
