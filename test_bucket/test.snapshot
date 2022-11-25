@@ -23,8 +23,8 @@
         "name" : "test_demo",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 576.0,
-          "y" : 32.0
+          "x" : -576.0,
+          "y" : 296.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -47,8 +47,8 @@
           "name" : "GetFile",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 943.000000605115,
-            "y" : 436.9999972491285
+            "x" : 1304.0,
+            "y" : 560.0
           },
           "properties" : {
             "Keep Source File" : "false",
