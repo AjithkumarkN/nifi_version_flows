@@ -1,0 +1,6 @@
+flows:
+  4d13fe16-55a3-4968-889c-69301792ea8e: {ver: 1, file: nifi-salesforce-flow.snapshot,
+    comments: '', author: anonymous, created: 1670829756155, flowName: nifi-salesforce-flow,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 1998b8cf-c43d-4dd6-9b8d-7cd5ec2abdb0
