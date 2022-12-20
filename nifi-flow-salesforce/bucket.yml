@@ -1,4 +1,6 @@
 flows:
+  739d42dc-9034-405d-bf6d-67c3dfe4be4c: {ver: 1, file: demo.snapshot, comments: '',
+    author: anonymous, created: 1671521523681, flowName: demo, flowDesc: ''}
   26f19a30-e52a-4718-89bb-58464895303f: {ver: 1, file: flow.snapshot, comments: '',
     author: anonymous, created: 1671520137619, flowName: flow, flowDesc: ''}
   4d13fe16-55a3-4968-889c-69301792ea8e: {ver: 1, file: nifi-salesforce-flow.snapshot,
